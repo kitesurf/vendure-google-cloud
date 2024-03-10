@@ -6,3 +6,4 @@ dist
 node_modules
 static
 test/test-emails
+README.md
