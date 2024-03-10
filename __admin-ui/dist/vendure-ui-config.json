@@ -1,0 +1,27 @@
+{
+  "adminApiPath": "admin-api",
+  "apiHost": "auto",
+  "apiPort": "auto",
+  "tokenMethod": "bearer",
+  "authTokenHeaderKey": "vendure-auth-token",
+  "defaultLanguage": "en",
+  "availableLanguages": [
+    "de",
+    "en",
+    "es",
+    "pl",
+    "zh_Hans",
+    "zh_Hant",
+    "pt_BR",
+    "pt_PT",
+    "cs",
+    "fr",
+    "ru",
+    "uk",
+    "it"
+  ],
+  "brand": "Pinelab Vendure",
+  "hideVendureBranding": false,
+  "hideVersion": false,
+  "loginImageUrl": "https://source.unsplash.com/NOWf9wVANYQ"
+}
