@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  GCLOUD_PROJECT: your-project
+  GCLOUD_PROJECT: GCloud-aktivierung
 
 jobs:
 
